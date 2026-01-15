@@ -40,6 +40,27 @@ Provided data-driven recommendations to improve:
 ## Dataset
 Olist Brazilian E-Commerce Dataset (Kaggle)
 
+## Visual Highlights
+
+**Order Price Distribution**  
+![](images/price_dist.png)
+
+---
+
+**Payment Method Distribution**  
+![](images/payment.png)
+
+---
+
+**Delivery Speed vs Customer Satisfaction**  
+![](images/delivery_vs_satisfaction.png)
+
+---
+
+**RFM Customer Segmentation**  
+![](images/rfm_segments.png)
+
+
 ## Contributors
 - Selen İmahanoğlu  
 - Begüm Yapıcıoğlu
